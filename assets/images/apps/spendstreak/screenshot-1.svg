@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="640" viewBox="0 0 320 640">
+  <rect width="320" height="640" rx="28" fill="#171b24"/>
+  <rect x="8" y="8" width="304" height="624" rx="20" fill="#1e2330" stroke="#2a3040" stroke-width="2"/>
+  <text x="160" y="310" font-family="sans-serif" font-size="20" fill="#9aa1b4" text-anchor="middle">Dashboard</text>
+  <text x="160" y="336" font-family="sans-serif" font-size="13" fill="#6b7280" text-anchor="middle">screenshot placeholder</text>
+</svg>
